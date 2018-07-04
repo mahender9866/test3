@@ -53,7 +53,7 @@
 [17-Mar-2016 04:57:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/travexdxb/public_html/application/APIs/cms_api/controllers/Cms_api.php on line 81
 [17-Mar-2016 06:22:24 America/Chicago] PHP Parse error:  syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING) in /home/travexdxb/public_html/application/helpers/common_helper.php on line 590
 [17-Mar-2016 09:39:42 America/Chicago] PHP Warning:  Unterminated comment starting line 1597 in /home/travexdxb/public_html/application/models/Search_model.php on line 1597
-[17-Mar-2016 09:39:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/travexdxb/public_html/application/models/Search_model.php on line 1602
+[17-Mar-2016 09:39:42 America/Chicago] PHP Parse error:eded  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/travexdxb/public_html/application/models/Search_model.php on line 1602
 [20-Mar-2016 23:59:22 America/Chicago] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/travexdxb/public_html/application/APIs/search_api/controllers/Search_api.php on line 2693
 [21-Mar-2016 01:16:02 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 309408 bytes) in /home/travexdxb/public_html/application/third_party/mpdf/mpdf.php on line 14487
 [23-Mar-2016 03:44:46 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/travexdxb/public_html/application/third_party/mpdf/mpdf.php on line 19038
